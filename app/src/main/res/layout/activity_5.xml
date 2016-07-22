@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.fivethings.Activity5">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Club Atlético de Madrid, SAD (Spanish pronunciation: [ˈkluβ aðˈletiko ðe maˈðɾið]) commonly known as Atlético Madrid, or simply as Atlético, is a Spanish professional football club based in Madrid, that plays in La Liga.  In terms of UEFA competition titles won, Atlético Madrid is Spain&apos;s third most successful club behind Real Madrid and Barcelona. In terms of the number of titles, Atlético Madrid is the fourth most successful club in Spanish football, behind Real Madrid, Barcelona and Athletic Bilbao. Atlético have won La Liga on ten occasions, including a league and cup double in 1996; the Copa del Rey on ten occasions; two Supercopas de España and one Copa Eva Duarte; in Europe, they won the European Cup Winners&apos; Cup in 1962, were runners-up in 1963 and 1986, were European Cup runners-up in 1974, 2014 and 2016,[3] won the Europa League in 2010 and in 2012, won the UEFA Super Cup in 2010 and 2012, as well as the 1974 Intercontinental Cup."
+        android:id="@+id/textView3"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.fivethings.Activity6">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Futbol Club Barcelona (Catalan pronunciation: [fubˈbɔɫ ˈkɫub bərsəˈɫonə] ( listen)), commonly known as Barcelona and familiarly as Barça,[note 1] is a professional football club, based in Barcelona, Catalonia, Spain.  Founded in 1899 by a group of Swiss, English and Catalan footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto &quot;Més que un club&quot; (More than a club). Unlike many other football clubs, the supporters own and operate Barcelona. It is the second most valuable sports team in the world, worth $3.56 billion, and the world&apos;s second richest football club in terms of revenue, with an annual turnover of €560.8 million.[2][3] The official Barcelona anthem is the &quot;Cant del Barça&quot;, written by Jaume Picas and Josep Maria Espinàs.[4]"
+        android:id="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>

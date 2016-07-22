@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.fivethings.Activity4">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Paris Saint-Germain Football Club (French pronunciation: ​[paʁi sɛ̃ ʒɛʁmɛ̃]), commonly referred to as PSG, is a French professional association football club based in Paris, whose first team play in the highest tier of French football, the Ligue 1. The club was formed in 1970 by the merger of Paris FC and Stade Saint-Germain.[1]  Having won 30 titles in its history, PSG is the most successful club in French football.[2] The Parisian side is also one of only two French clubs to win a European title.[3] Domestically, PSG have won six Ligue 1 titles, a record ten Coupes de France, a record six Coupes de la Ligue, five Trophées des Champions and one Ligue 2 title. In international club football, Paris have won one UEFA Cup Winners&apos; Cup and one UEFA Intertoto Cup.[4]  Paris Saint-Germain moved into the Parc des Princes in 1974,[5] after spending their formative years using the Stade Municipal Georges Lefèvre,[6] located in front of the Camp des Loges,[7] the club&apos;s training complex since 1970.[8] The Tournoi de Paris has been hosted by the capital club at the Parc des Princes since 1975.[9] PSG shares an intense rivalry with Olympique de Marseille and contest the most notorious football match in France, known as Le Classique.[10] Paris is the second-highest supported football club in France after rivals Marseille.[11] Qatar Sports Investments became the club&apos;s sole shareholder in 2012.[12] The takeover made PSG the richest club in France and amongst the richest in the world.[13]"
+        android:id="@+id/textView5"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

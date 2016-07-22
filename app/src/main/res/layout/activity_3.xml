@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.fivethings.Activity3">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Munich (/ˈmjuːnɪk/; also /ˈmjuːnɪx/ in British English; German: München, pronounced [ˈmʏnçn̩] ( listen),[2] Bavarian: Minga [ˈmɪŋ(ː)ɐ]) is the capital and largest city of the German state of Bavaria, on the banks of River Isar north of the Bavarian Alps. Munich is the third largest city in Germany, after Berlin and Hamburg, and the 12th biggest city of the European Union, with a population of above 1.5 million.[3] The Munich Metropolitan Region is home to 5.8 million people.[4] The city is a major center of art, advanced technologies, finance, publishing, culture, innovation, education, business, and tourism in Germany and Europe and enjoys a very high standard and quality of living, reaching #1 in Germany and #4 worldwide according to the 2015 Mercer survey.[5] According to the Globalization and World Rankings Research Institute Munich is considered an alpha-world city, as of 2015.[6]"
+        android:id="@+id/textView4"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
